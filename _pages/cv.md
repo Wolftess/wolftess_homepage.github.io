@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-&nbsp;
 
 Education
 ======
@@ -42,19 +41,28 @@ Work experience
   * Proofreader, editor, translator, author
   
  
-  
-  
+&nbsp;
 
-
-
-  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Natural Languages 
+  * German (mothertongue)
+  * English (C2)
+  * Italian (C1)
+  * French (A2)
+  * Latin (Latinum)
+  * Ancient Greek (Graecum)
+  
+* Programming Languages
+  * Python (advanced)
+  * R (proficient)
+
 * Skill 3
 
+
+&nbsp;
+
+  
+Awards
+======
