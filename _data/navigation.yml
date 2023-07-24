@@ -2,9 +2,11 @@
 main:
   #- title: "Publications"
   #  url: /publications/
-
-  - title: "Projects"
-    url: /Projects/    
+    - title: "CV"
+        url: /cv/
+    
+    - title: "Projects"
+        url: /Projects/    
 
   #- title: "Teaching"
   #  url: /teaching/    
@@ -15,8 +17,7 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  
     
   #- title: "Guide"
   #  url: /markdown/
