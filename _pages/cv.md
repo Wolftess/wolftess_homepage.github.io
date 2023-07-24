@@ -66,4 +66,7 @@ Skills
   
 Awards
 ======
-* 12/18: VEUK award for outstanding degrees
+* 12/18: [VEUK award](https://www.uni-konstanz.de/en/alumni/funding-programmes-and-awards/veuk-award/) for outstanding degrees
+* 01/16 [VEUK award](https://www.uni-konstanz.de/en/alumni/funding-programmes-and-awards/veuk-award/) for foreign students
+* 08/16 Academic Excellence Scholarship of the Province of South Tyrol
+* 09/12 School excellence [Scholarship ProExcellentia](https://www.proexcellentia.it/de.html): Top 30 of South Tyrol
