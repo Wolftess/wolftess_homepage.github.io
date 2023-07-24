@@ -8,8 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-  
-  
+
+&nbsp;
+
 Education
 ======
 * M.Sc. in Computational Linguistics, University of Stuttgart, 2023
