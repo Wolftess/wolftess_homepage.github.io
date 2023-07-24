@@ -16,14 +16,12 @@ Education
 
 Work experience
 ======
-* 10/19 – 12/20: Research Assistant
-  * Fraunhofer Institute for Manufacturing Engineering and Automation IPA
-  * Duties included: Kaggle ML Competitions in NLP and Image classification, proof-read scientific literature
+* 10/19 – 12/20: Fraunhofer Institute for Manufacturing, Engineering and Automation IPA (Stuttgart, DE)
+  * Duties included: Kaggle ML Competitions in NLP and Image classification, proof-read scientific texts
 
-* Fall 2015: Research Assistant
+* 06/18 – 08/18: Landesbibliothek Dr. Friedrich Teßmann (Bozen, IT)
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
