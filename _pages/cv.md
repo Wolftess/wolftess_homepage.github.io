@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+&nbsp;
+
 
 Education
 ======
@@ -58,11 +60,10 @@ Skills
   * Python (advanced)
   * R (proficient)
 
-* Skill 3
-
 
 &nbsp;
 
   
 Awards
 ======
+* 12/18: VEUK award for outstanding degrees
