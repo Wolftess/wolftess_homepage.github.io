@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Wolfgang Tessadri"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Computational Linguist"
+  location         : "Stuttgart"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
