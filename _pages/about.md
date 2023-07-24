@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I just finished my MSc. in Computational Linguistics with a focus on Deep Learning.
+I completed a B.A. in Linguistics at the [University of Konstanz](https://www.uni-konstanz.de/en/), followed by an M.Sc. in Computational Linguistics at the [Institute of Natural Language Processing](https://www.ims.uni-stuttgart.de/en/) in Stuttgart. 
