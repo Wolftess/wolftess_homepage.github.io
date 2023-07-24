@@ -46,7 +46,7 @@ Work experience
 &nbsp;
 
   
-Skills
+Languages
 ======
 * Natural Languages 
   * German (mothertongue)
