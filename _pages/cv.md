@@ -11,16 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.Sc. in Computational Linguistics, University of Stuttgart, 2023
+* B.A. in Linguistics, University of Konstanz, 2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 10/19 – 12/20: Research Assistant
+  * Fraunhofer Institute for Manufacturing Engineering and Automation IPA
+  * Duties included: Kaggle ML Competitions in NLP and Image classification, proof-read scientific literature
 
 * Fall 2015: Research Assistant
   * Github University
