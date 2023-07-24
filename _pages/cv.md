@@ -21,8 +21,7 @@ Work experience
   * Duties included: Kaggle ML Competitions in NLP and Image classification, proof-read scientific texts
 
 * 06/18 – 08/18: Landesbibliothek Dr. Friedrich Teßmann (Bozen, IT)
-  * Github University
-  * Duties included: Merging pull requests
+  * Duties included: Digitization strategy, Collaboration in DI-ÖSS with Institute of Applied Linguistics ([Eurac](https://www.eurac.edu/en/institutes-centers/institute-for-applied-linguistics))
   
 Skills
 ======
