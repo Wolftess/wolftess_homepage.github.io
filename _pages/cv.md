@@ -21,16 +21,28 @@ Education
 Work experience
 ======
 * 10/19 – 12/20: [Fraunhofer Institute for Manufacturing, Engineering and Automation IPA](https://www.ipa.fraunhofer.de/en.html) (Stuttgart, DE)
-  * Duties included: Kaggle ML Competitions in NLP and Image classification, proof-read scientific texts
+  * Kaggle ML Competitions in NLP and Image classification, proof-read scientific texts
 
-* 06/18 – 08/18: [Landesbibliothek Dr. Friedrich Teßmann](https://www.tessmann.it/en/home.html) (Bozen, IT)
-  * Duties included: Digitization strategy, Collaboration with Institute of Applied Linguistics ([EURAC](https://www.eurac.edu/en/institutes-centers/institute-for-applied-linguistics)) in [DI-ÖSS](https://www.eurac.edu/de/institutes-centers/institut-fuer-angewandte-sprachforschung/projects/di-oess)
-
-* 10/17 – 02/18: University of Konstanz, Department of Linguistics (Konstanz, DE)
-  * Duties included: Research assistant for Phonetics seminar
+* 11/17 – 10/21: Online magazine [Barfuss.it](https://www.barfuss.it/)
+  * Proofreader, editor, author, conceptualization
   
-* 11/16 – 02/17: University of Konstanz, Department of Linguistics (Konstanz, DE)
-  * Duties included: Research assistant
+* 06/18 – 08/18: [Landesbibliothek Dr. Friedrich Teßmann](https://www.tessmann.it/en/home.html) (Bozen, IT)
+  * Digitization strategy, Collaboration with Institute of Applied Linguistics ([EURAC](https://www.eurac.edu/en/institutes-centers/institute-for-applied-linguistics)) in [DI-ÖSS](https://www.eurac.edu/de/institutes-centers/institut-fuer-angewandte-sprachforschung/projects/di-oess)
+
+* 10/17 – 02/18: University of Konstanz, [Department of Linguistics](https://www.ling.uni-konstanz.de/en/) (Konstanz, DE)
+  * Research assistant (Phonetics)
+  
+* 11/16 – 02/17: University of Konstanz, [Department of Linguistics](https://www.ling.uni-konstanz.de/en/) (Konstanz, DE)
+  * Research assistant (English Studies)
+ 
+* 10/14 – 02/15: University of Konstanz, [Department of Linguistics](https://www.ling.uni-konstanz.de/en/) (Konstanz, DE)
+  * Research assistant (German Studies)
+ 
+* 06/13 – today: [communication agency exlibris](https://www.exlibris.bz.it/de/ueber-uns/), [Edition Raetia](https://www.raetia.com/de/)
+  * Proofreader, editor, translator, author
+  
+ 
+  
   
 
 
