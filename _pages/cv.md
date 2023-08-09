@@ -24,7 +24,7 @@ Work experience
 * 10/19 – 12/20: [Fraunhofer Institute for Manufacturing, Engineering and Automation IPA](https://www.ipa.fraunhofer.de/en.html) (Stuttgart, DE)
   * Kaggle ML Competitions in NLP and Image classification, proof-read scientific texts
 
-* 11/17 – 10/21: Online magazine [Barfuss.it](https://www.barfuss.it/)
+* 11/17 – 10/21: Online magazine [Barfuss.it](https://www.barfuss.it/) (Bozen, IT)
   * Proofreader, editor, author, conceptualization
   
 * 06/18 – 08/18: [Landesbibliothek Dr. Friedrich Teßmann](https://www.tessmann.it/en/home.html) (Bozen, IT)
