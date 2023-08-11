@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /imprint/ 
 title: "Imprint | Legal notice"
 author_profile: true
