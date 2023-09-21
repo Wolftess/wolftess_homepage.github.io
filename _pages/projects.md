@@ -9,7 +9,7 @@ author_profile: true
 {% include base_path %}
 
 &nbsp;
-# *Cross-lingual gender prediction*
+# *Enhancing a German Dialect Corpus with Neural Methods*
 [Master Thesis](/files/projects/MA_thesis_WT_final){: .btn--research} \
 In my master thesis I used Transformer models to add additional information to a German written dialect corpus.\
 Leveraging these systems I showed how to collect new dialect data on Twitter. \
