@@ -16,8 +16,9 @@ author_profile: true
 In this project two classification systems for gender prediction across different languages were implemented. \
 One system was based on linguistic features the other on a LLM (XLM-RoBERTa). \
 Leveraging these systems we tried to predict the gender of Twitter users from their tweets.
-&nbsp;
-
+<br>
+<br>
+<br>
 # *Plutchik Vectors for Emotion Classification*
 [Project Paper](/files/projects/emotion_tuning_word_embeddings_WT.pdf){: .btn--research} \
 Building on Plutchik's model of emotions I created a task-specific optimization function.\
