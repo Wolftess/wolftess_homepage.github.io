@@ -40,7 +40,7 @@ Its effectiveness was tested in an echo cancellation scenario.
 <br>
 <br>
 
-# *Die Entstehung des bairischen Verbalpräfixes der- und dessen synchrone Verwendung in den südbairischen Dialekten Südtirols
+# *Die Entstehung des bairischen Verbalpräfixes der- und dessen synchrone Verwendung in den südbairischen Dialekten Südtirols*
 [Bachelor Thesis](/files/projects/BA_Wolfgang_Tessadri.pdf){: .btn--research} \
 One of the most prominent and widely-used verbal prefixes in the South Tyrolean dialect (as well as other Bavarian varieties) is *der-*.
 Besides many other meanings, *der-* also has developed der- a modal component of meaning, which expresses that something is possible or not possible for the agent.
