@@ -38,3 +38,9 @@ The project aimed for improving performance of an emotion classification task on
 In this project I implemented a simple Least Mean Squares adaptive filter. \
 Its effectiveness was tested in an echo cancellation scenario.
 
+# *Die Entstehung des bairischen Verbalpräfixes der- und dessen synchrone Verwendung in den südbairischen Dialekten Südtirols
+[Bachelor Thesis](/files/projects/BA_Wolfgang_Tessadri.pdf){: .btn--research} \
+One of the most prominent and widely-used verbal prefixes in the South Tyrolean dialect (as well as other Bavarian varieties) is *der-*.
+Besides many other meanings, *der-* also has developed der- a modal component of meaning, which expresses that something is possible or not possible for the agent.
+In my Bachelor thesis I described this linguistic phenomenon and its syntactical and semantic conspicuities in the South Tyrolean dialect.
+
