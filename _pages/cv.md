@@ -21,6 +21,10 @@ Education
 
 Work experience
 ======
+
+* 01/24 – now: [BDO Germany - AI Strategy and Implementation services](https://www.bdo.de/de-de/services/advisory/management-advisory/ai-strategy-implementation-services) (Stuttgart, DE)
+  * Conceptualisation and Implementation of Big Data pipelines; Implementation of ai-assisted automation use cases for the automotive and financial sector in Germany.
+  
 * 10/19 – 12/20: [Fraunhofer Institute for Manufacturing, Engineering and Automation IPA](https://www.ipa.fraunhofer.de/en.html) (Stuttgart, DE)
   * Kaggle ML Competitions in NLP and Image classification, proof-read scientific texts
 
@@ -45,6 +49,53 @@ Work experience
  
 &nbsp;
 
+Technical skills
+======
+* Programming Languages
+  * Python (advanced)
+  * Java (fundamental)
+  * R (fundamental)
+  * SQL (fundamental)
+ 
+* Machine Learning frameworks
+ * Tensorflow (intermediate)
+ * PyTorch (fundamental)
+ * LangChain (fundamental)
+ * OpenAI API (intermediate)
+ * Azure API (intermediate)
+
+* Data Engineering and Automation
+  * Azure (advanced)
+  * Databricks (advanced)
+  * Jenkins (fundamental)
+  
+* Versioning and Code Quality
+ * Git (intermediate)
+ * GitLab (intermediate)
+ * GitHub (intermediate)
+ * SonarQube (fundamental)
+ 
+* IDEs
+ * PyCharm (intermediate)
+ * IntelliJ (intermediate)
+ * VisualStudioCode (fundamental)
+
+* Databases
+ * PostgreSQL (fundamental)
+ * Solr (fundamental)
+ 
+* Microsoft
+ * Office 365 (expert)
+ * Power BI (fundamental)
+ * Power Automate (fundamental)
+ 
+* Operating Systems
+ * Windows (expert)
+ * Linux (fundamental)
+
+Project management
+======
+ * SCRUM (fundamental)
   
 Languages
 ======
@@ -55,10 +106,6 @@ Languages
   * French (A2)
   * Latin (Latinum)
   * Ancient Greek (Graecum)
-  
-* Programming Languages
-  * Python (advanced)
-  * R (proficient)
 
 
 &nbsp;
@@ -66,7 +113,8 @@ Languages
   
 Awards
 ======
-* 12/18: [VEUK award](https://www.uni-konstanz.de/en/alumni/funding-programmes-and-awards/veuk-award/) for outstanding Bachelor degrees
+* 04/24	[infos award](https://www.informatik-forum.org/publicity/preistraeger) for outstanding Master degrees
+* 12/18 [VEUK award](https://www.uni-konstanz.de/en/alumni/funding-programmes-and-awards/veuk-award/) for outstanding Bachelor degrees
 * 01/16 [VEUK award](https://www.uni-konstanz.de/en/alumni/funding-programmes-and-awards/veuk-award/) for foreign students
 * 08/16 Academic Excellence Scholarship of the Province of South Tyrol
 * 09/12 School excellence [scholarship ProExcellentia](https://www.proexcellentia.it/de.html): Top 30 of South Tyrol
