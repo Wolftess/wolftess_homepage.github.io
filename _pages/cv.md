@@ -11,15 +11,7 @@ redirect_from:
 
 &nbsp;
 
-
-Education
-======
-* M.Sc. in Computational Linguistics, University of Stuttgart, 2023
-* B.A. in Linguistics, University of Konstanz, 2018
-
-&nbsp;
-
-Work experience
+Working experience
 ======
 
 * 01/24 – now: [BDO Germany - AI Strategy and Implementation services](https://www.bdo.de/de-de/services/advisory/management-advisory/ai-strategy-implementation-services) (Stuttgart, DE)
@@ -45,7 +37,13 @@ Work experience
  
 * 06/13 – today: [communication agency exlibris](https://www.exlibris.bz.it/de/ueber-uns/), [Edition Raetia](https://www.raetia.com/de/)
   * Proofreader, editor, translator, author
-  
+
+&nbsp;
+
+Education
+======
+* M.Sc. in Computational Linguistics, University of Stuttgart, 2023
+* B.A. in Linguistics, University of Konstanz, 2018
  
 &nbsp;
 
@@ -58,11 +56,11 @@ Technical skills
   * SQL (fundamental)
  
 * Machine Learning frameworks
- * Tensorflow (intermediate)
- * PyTorch (fundamental)
- * LangChain (fundamental)
- * OpenAI API (intermediate)
- * Azure API (intermediate)
+  * Tensorflow (intermediate)
+  * PyTorch (fundamental)
+  * LangChain (fundamental)
+  * OpenAI API (intermediate)
+  * Azure API (intermediate)
 
 * Data Engineering and Automation
   * Azure (advanced)
@@ -70,32 +68,32 @@ Technical skills
   * Jenkins (fundamental)
   
 * Versioning and Code Quality
- * Git (intermediate)
- * GitLab (intermediate)
- * GitHub (intermediate)
- * SonarQube (fundamental)
+  * Git (intermediate)
+  * GitLab (intermediate)
+  * GitHub (intermediate)
+  * SonarQube (fundamental)
  
 * IDEs
- * PyCharm (intermediate)
- * IntelliJ (intermediate)
- * VisualStudioCode (fundamental)
+  * PyCharm (intermediate)
+  * IntelliJ (intermediate)
+  * VisualStudioCode (fundamental)
 
 * Databases
- * PostgreSQL (fundamental)
- * Solr (fundamental)
+  * PostgreSQL (fundamental)
+  * Solr (fundamental)
  
 * Microsoft
- * Office 365 (expert)
- * Power BI (fundamental)
- * Power Automate (fundamental)
+  * Office 365 (expert)
+  * Power BI (fundamental)
+  * Power Automate (fundamental)
  
 * Operating Systems
- * Windows (expert)
- * Linux (fundamental)
+  * Windows (expert)
+  * Linux (fundamental)
 
 Project management
 ======
- * SCRUM (fundamental)
+  * SCRUM (fundamental)
   
 Languages
 ======
