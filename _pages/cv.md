@@ -91,10 +91,14 @@ Technical skills
   * Windows (expert)
   * Linux (fundamental)
 
+&nbsp;
+
 Project management
 ======
   * SCRUM (fundamental)
-  
+
+&nbsp;
+
 Languages
 ======
 * Natural Languages 
@@ -104,7 +108,6 @@ Languages
   * French (A2)
   * Latin (Latinum)
   * Ancient Greek (Graecum)
-
 
 &nbsp;
 
